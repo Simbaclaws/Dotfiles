@@ -2,7 +2,7 @@
 sudo apt install nala
 sudo nala update
 sudo nala upgrade
-sudo nala install git vim zsh picom qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libx11-dev libxft-dev libxinerama-dev libfreetype6-dev libfontconfig1-dev x11-xserver-utils feh wireplumber pavucontrol flameshot manpages-dev gnome-tweaks lxappearance neofetch lsd bpytop glances htop wget curl fontconfig pidgin filezilla ffmpeg nodejs npm php python3 rustc
+sudo nala install wireguard-tools git vim zsh picom qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libx11-dev libxft-dev libxinerama-dev libfreetype6-dev libfontconfig1-dev x11-xserver-utils feh wireplumber pavucontrol flameshot manpages-dev gnome-tweaks lxappearance neofetch lsd bpytop glances htop wget curl fontconfig pidgin filezilla ffmpeg nodejs npm php python3 rustc
 sudo wget -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Hack.zip
 cd ~/.local/share/fonts && sudo unzip Hack.zip && sudo rm *Windows* && sudo rm Hack.zip && sudo mkdir /usr/share/fonts/truetype/hack && sudo mv ./*.ttf /usr/share/fonts/truetype/hack/ && sudo fc-cache -fv
 cd ~/

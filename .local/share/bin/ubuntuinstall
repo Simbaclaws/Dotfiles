@@ -50,6 +50,7 @@ sudo snap install webstorm --classic
 sudo snap install whatsapp-for-linux
 sudo cp ~/dwm.desktop /usr/share/xsessions/dwm.desktop
 sudo cp ~/picom.conf /etc/xdg/picom.conf
+crontab -l | { cat; echo "* * * * * DISPLAY=:0 /usr/local/bin/wallpaper"; } | crontab -
 cd ~/.config/suckless/dwm && sudo make && sudo make clean install
 cd ~/.config/suckless/st && sudo make && sudo make clean install
 cd ~/.config/suckless/dwmblocks && sudo make && sudo make clean install

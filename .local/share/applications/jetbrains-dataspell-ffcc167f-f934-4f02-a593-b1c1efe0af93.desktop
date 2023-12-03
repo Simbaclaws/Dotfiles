@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=DataSpell 2023.2.5
+Exec="/home/simbaclaws/.local/share/JetBrains/Toolbox/apps/dataspell/bin/dataspell.sh" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+Icon=/home/simbaclaws/.local/share/JetBrains/Toolbox/apps/dataspell/bin/dataspell.svg
+Comment=The IDE for data analysis
+StartupWMClass=jetbrains-dataspell
+StartupNotify=true

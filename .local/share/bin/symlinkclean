@@ -1,0 +1,12 @@
+#!/bin/bash
+
+sudo rm -rf /usr/local/bin/battery
+sudo rm -rf /usr/local/bin/clock
+sudo rm -rf /usr/local/bin/cpu
+sudo rm -rf /usr/local/bin/internet
+sudo rm -rf /usr/local/bin/memory
+sudo rm -rf /usr/local/bin/archupdate
+sudo rm -rf /usr/local/bin/traffic
+sudo rm -rf /usr/local/bin/volume
+sudo rm -rf /usr/local/bin/wallpaper
+sudo rm -rf /usr/local/bin/weather

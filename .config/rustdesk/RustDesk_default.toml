@@ -1,0 +1,3 @@
+[options]
+displays_as_individual_windows = 'Y'
+use_all_my_displays_for_the_remote_session = 'Y'

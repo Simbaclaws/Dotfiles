@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo cp ~/start /etc/X11/Xsession.d/start
+sudo cp ~/dwm.desktop /usr/share/xsessions/dwm.desktop

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=PhpStorm 2023.2.4
+Exec="/home/simbaclaws/.local/share/JetBrains/Toolbox/apps/phpstorm/bin/phpstorm.sh" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+Icon=/home/simbaclaws/.local/share/JetBrains/Toolbox/apps/phpstorm/bin/phpstorm.svg
+Comment=A smart IDE for PHP and Web
+StartupWMClass=jetbrains-phpstorm
+StartupNotify=true

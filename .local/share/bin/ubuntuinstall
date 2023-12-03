@@ -1,0 +1,10 @@
+#!/bin/bash
+sudo apt install nala
+sudo nala install $(cat ~/packages.list | awk '{print $1}')
+sudo snap import-snapshot ~/snaps.list
+sudo cp ~/dwm.desktop /usr/share/xsessions/dwm.desktop
+sudo cp ~/picom.conf /etc/xdg/picom.conf
+cd ~/.config/suckless/dwm && make && sudo make clean install
+cd ~/.config/suckless/st && make && sudo make clean install
+cd ~/.config/suckless/dwmblocks && make && sudo make clean install
+cd ~/.config/suckless/dmenu && make && sudo make clean install

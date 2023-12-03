@@ -1,0 +1,18 @@
+remote_id = '413457729'
+kb_layout_type = 'Not ISO'
+size = [
+    0,
+    0,
+    0,
+    0,
+]
+fav = []
+
+[options]
+remote-menubar-drag-right = '1.0'
+remote-menubar-drag-left = '0.0'
+
+[ui_flutter]
+remoteMenubarState = '{"pin":false}'
+wm_RemoteDesktop = '{"width":1300.0,"height":740.0,"offsetWidth":0.0,"offsetHeight":0.0,"isMaximized":true,"isFullscreen":true}'
+peer-sorting = 'Remote ID'

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+sudo ln -s ~/.local/share/bin/battery /usr/local/bin/battery
+sudo ln -s ~/.local/share/bin/clock /usr/local/bin/clock
+sudo ln -s ~/.local/share/bin/cpu /usr/local/bin/cpu
+sudo ln -s ~/.local/share/bin/internet /usr/local/bin/internet
+sudo ln -s ~/.local/share/bin/memory /usr/local/bin/memory
+sudo ln -s ~/.local/share/bin/archupdate /usr/local/bin/archupdate
+sudo ln -s ~/.local/share/bin/traffic /usr/local/bin/traffic
+sudo ln -s ~/.local/share/bin/volume /usr/local/bin/volume
+sudo ln -s ~/.local/share/bin/wallpaper /usr/local/bin/wallpaper
+sudo ln -s ~/.local/share/bin/weather /usr/local/bin/weather

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Fleet 1.26.104 Public Preview
+Exec="/home/simbaclaws/.local/share/JetBrains/Toolbox/apps/fleet/bin/Fleet" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+Icon=/home/simbaclaws/.local/share/JetBrains/Toolbox/dotDesktopIcons/jetbrains-fleet-52fac5db-821a-4129-b35e-4fe9e138f29c.desktop.icon.png
+Comment=The next-generation IDE by JetBrains
+StartupWMClass=jetbrains-fleet

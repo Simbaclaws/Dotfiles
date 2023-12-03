@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cupd=$(apt-show-versions -u | wc -l)
+printf "$cupd \n"

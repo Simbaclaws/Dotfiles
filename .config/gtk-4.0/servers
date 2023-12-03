@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="smb://192.168.4.10/passwords/" added="2023-11-22T22:38:25.995100Z" modified="2023-11-22T23:44:13.116780Z" visited="2023-11-22T23:44:13.116777Z">
+    <title>passwords on 192.168.4.10</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-22T23:44:13.116779Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/media/" added="2023-11-22T23:54:04.315642Z" modified="2023-11-22T23:54:04.315646Z" visited="2023-11-22T23:54:04.315643Z">
+    <title>media on 192.168.4.10</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-22T23:54:04.315644Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/data/" added="2023-11-22T23:54:16.109805Z" modified="2023-12-03T12:20:18.316136Z" visited="2023-12-03T12:20:18.316134Z">
+    <title>data on 192.168.4.10</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-12-03T12:20:18.316135Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/3d-building-team/" added="2023-11-22T23:54:29.190425Z" modified="2023-11-22T23:54:29.190430Z" visited="2023-11-22T23:54:29.190426Z">
+    <title>3d-building-team on 192.168.4.10</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-22T23:54:29.190428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/backups-linux/" added="2023-11-22T23:54:45.162263Z" modified="2023-11-22T23:54:45.162268Z" visited="2023-11-22T23:54:45.162264Z">
+    <title>backups-linux on 192.168.4.10</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-22T23:54:45.162266Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

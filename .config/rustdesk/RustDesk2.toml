@@ -1,0 +1,11 @@
+rendezvous_server = '192.168.3.40:21116'
+nat_type = 1
+serial = 0
+
+[options]
+local-ip-addr = '192.168.9.2'
+key = 'SGpzIhVZnaBvAGGEHTa13arb0fyp0oipS0ri6eiUBW4='
+stop-service = 'Y'
+api-server = 'https://remote.hylke.it'
+relay-server = '192.168.3.40:21117'
+custom-rendezvous-server = '192.168.3.40:21116'

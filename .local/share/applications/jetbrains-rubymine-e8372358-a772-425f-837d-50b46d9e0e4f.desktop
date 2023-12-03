@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=RubyMine 2023.2.5
+Exec="/home/simbaclaws/.local/share/JetBrains/Toolbox/apps/rubymine/bin/rubymine.sh" %u
+Version=1.0
+Type=Application
+Categories=Development;IDE;
+Terminal=false
+Icon=/home/simbaclaws/.local/share/JetBrains/Toolbox/apps/rubymine/bin/rubymine.svg
+Comment=A Ruby and Rails IDE
+StartupWMClass=jetbrains-rubymine
+StartupNotify=true

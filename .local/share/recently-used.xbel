@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/simbaclaws/Downloads/jetbrains-toolbox-2.1.1.18388.tar.gz" added="2023-11-22T22:18:41.634696Z" modified="2023-11-22T22:18:41.634699Z" visited="2023-11-22T22:18:41.634697Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-22T22:18:41.634697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.local/share/bin" added="2023-11-22T22:19:03.972011Z" modified="2023-11-22T22:19:03.972017Z" visited="2023-11-22T22:19:03.972013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-11-22T22:19:03.972015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/simbaclaws/Data/Wireguard/d-hylke-lin.conf" added="2023-11-22T22:30:18.385130Z" modified="2023-11-22T22:30:18.385134Z" visited="2023-11-22T22:30:18.385131Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-11-22T22:30:18.385132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/Hack.zip" added="2023-11-22T22:47:22.976400Z" modified="2023-11-22T22:49:08.017438Z" visited="2023-11-22T22:47:22.976400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-22T22:49:08.017437Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.local/share/fonts" added="2023-11-22T22:47:42.662339Z" modified="2023-11-22T22:49:55.632848Z" visited="2023-11-22T22:47:42.662340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-11-22T22:49:55.632847Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.local/share/fonts/HackNerdFont-Regular.ttf" added="2023-11-22T22:47:58.148464Z" modified="2023-11-22T22:47:58.148470Z" visited="2023-11-22T22:47:58.148465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-11-22T22:47:58.148467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/Hack(1).zip" added="2023-11-22T22:49:46.014162Z" modified="2023-11-22T22:49:46.014166Z" visited="2023-11-22T22:49:46.014163Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-22T22:49:46.014164Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.zshrc" added="2023-11-22T23:37:49.356083Z" modified="2023-12-03T10:17:36.992953Z" visited="2023-11-22T23:37:49.356083Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-12-03T10:17:36.992952Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/user/1000/gvfs/smb-share:server=192.168.4.10,share=passwords/Prive.kdbx" added="2023-11-22T23:44:44.215719Z" modified="2023-11-22T23:44:44.215724Z" visited="2023-11-22T23:44:44.215720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="snap.keepassxc" exec="&apos;gio open %u&apos;" modified="2023-11-22T23:44:44.215722Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/passwords/Prive.kdbx" added="2023-11-22T23:44:44.227784Z" modified="2023-11-24T07:27:00.398105Z" visited="2023-11-22T23:44:44.227785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-11-22T23:44:44.227787Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/keepassxc_keepassxc.desktop /snap/bin/keepassxc %f&apos;" modified="2023-11-24T07:27:00.398102Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/backups-linux/Gaming-PC/Ubuntu" added="2023-11-22T23:54:56.030185Z" modified="2023-11-22T23:54:56.030190Z" visited="2023-11-22T23:54:56.030186Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-22T23:54:56.030188Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/gd-aosp-pine64_pinephone-userdebug-2023w46.tar.xz" added="2023-11-23T01:00:12.556674Z" modified="2023-11-23T01:00:42.050442Z" visited="2023-11-23T01:00:12.556675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-11-23T01:00:12.556676Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-23T01:00:42.050441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/pinephone" added="2023-11-23T01:01:23.633873Z" modified="2023-11-23T01:01:23.633877Z" visited="2023-11-23T01:01:23.633874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-11-23T01:01:23.633875Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/gd-lineageos-pine64_pinephone-userdebug-2023w45.tar.xz" added="2023-11-23T02:41:49.737329Z" modified="2023-11-23T02:42:21.813226Z" visited="2023-11-23T02:41:49.737330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-11-23T02:41:49.737333Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-23T02:42:21.813225Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/lineageos" added="2023-11-23T02:42:39.116698Z" modified="2023-11-23T02:42:39.116702Z" visited="2023-11-23T02:42:39.116699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-11-23T02:42:39.116700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/passwords/Wireguard/tel-pine-hylke.conf" added="2023-11-23T03:35:15.695850Z" modified="2023-11-23T03:35:15.695854Z" visited="2023-11-23T03:35:15.695851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;vim %F&apos;" modified="2023-11-23T03:35:15.695853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.4.10/data/Backups/multidispo.nl" added="2023-11-23T20:31:36.125618Z" modified="2023-11-23T20:31:36.125623Z" visited="2023-11-23T20:31:36.125619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-11-23T20:31:36.125621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/teamviewer_15.48.4_amd64.deb" added="2023-11-24T07:54:26.602185Z" modified="2023-11-24T07:54:26.602187Z" visited="2023-11-24T07:54:26.602185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-24T07:54:26.602186Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/Downloads/rustdesk-1.2.3-x86_64.deb" added="2023-11-25T18:48:01.739696Z" modified="2023-11-25T18:48:01.739698Z" visited="2023-11-25T18:48:01.739696Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-11-25T18:48:01.739697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.config/suckless/dwm/Patches/dwm-uselessgap.diff" added="2023-12-03T09:37:08.121669Z" modified="2023-12-03T09:37:08.371400Z" visited="2023-12-03T09:37:08.121670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-12-03T09:37:08.121670Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-12-03T09:37:08.371398Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.config/suckless/dwm/Patches/dwm-alwayscenter.diff" added="2023-12-03T09:37:16.754248Z" modified="2023-12-03T09:37:17.005245Z" visited="2023-12-03T09:37:16.754248Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-12-03T09:37:16.754250Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-12-03T09:37:17.005243Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.config/suckless/dwm/Patches/dwm-attachbelow.diff" added="2023-12-03T09:37:23.522205Z" modified="2023-12-03T09:37:23.772549Z" visited="2023-12-03T09:37:23.522206Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-12-03T09:37:23.522207Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-12-03T09:37:23.772547Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/simbaclaws/.config/suckless/st/Patches/st-alpha.diff" added="2023-12-03T09:41:59.151424Z" modified="2023-12-03T09:41:59.401715Z" visited="2023-12-03T09:41:59.151424Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-12-03T09:41:59.151426Z" count="1"/>
+          <bookmark:application name="snap.firefox" exec="&apos;gio open %u&apos;" modified="2023-12-03T09:41:59.401713Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

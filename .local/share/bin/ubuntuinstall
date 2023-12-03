@@ -45,6 +45,7 @@ sudo snap install signal-desktop
 sudo snap install simplenote
 sudo snap install slack
 sudo snap install space --classic
+sudo snap install teams-for-linux
 sudo snap install telegram-desktop
 sudo snap install webstorm --classic
 sudo snap install whatsapp-for-linux

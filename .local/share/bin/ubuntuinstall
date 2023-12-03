@@ -1,12 +1,20 @@
 #!/bin/bash
 sudo apt install nala
-sudo nala install $(cat ~/packages.list | awk '{print $1}')
+sudo nala update
+sudo nala upgrade
+sudo nala install git vim zsh qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virtinst libvirt-daemon build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libx11-dev libxft-dev libxinerama-dev libfreetype6-dev libfontconfig1-dev x11-xserver-utils feh wireplumber pavucontrol flameshot manpages-dev gnome-tweaks lxappearance neofetch lsd bpytop glances htop wget curl fontconfig pidgin filezilla ffmpeg nodejs npm php python3 rustc
+sudo wget -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/latest/download/Hack.zip
+cd ~/.local/share/fonts && sudo unzip Hack.zip && sudo rm *Windows* && sudo rm Hack.zip && sudo mkdir /usr/share/fonts/truetype/hack && sudo mv ./*.ttf /usr/share/fonts/truetype/hack/ && sudo fc-cache -fv
+cd ~/
+chsh -s $(which zsh)
+sudo snap install android-studio --classic
 sudo snap install blender --classic
 sudo snap install chromium
 sudo snap install clion --classic
 sudo snap install code --classic
 sudo snap install color-picker
 sudo snap install cups
+sudo snap install cura-slicer
 sudo snap install darktable
 sudo snap install datagrip --classic
 sudo snap install dataspell --classic
@@ -16,6 +24,7 @@ sudo snap install figma-linux
 sudo snap install firefox
 sudo snap install foliate
 sudo snap install goland --classic
+sudo snap install gimp
 sudo snap install inkscape
 sudo snap install intellij-idea-ultimate --classic
 sudo snap install keepassxc
@@ -26,17 +35,19 @@ sudo snap install pycharm-professional --classic
 sudo snap install remmina
 sudo snap install rider --classic
 sudo snap install rubymine --classic
-sudo snap install rustrover --classic
+sudo snap install rustrover --edge --classic
 sudo snap install shotcut --classic
+sudo snap install shortwave
 sudo snap install signal-desktop
 sudo snap install simplenote
 sudo snap install slack
 sudo snap install space --classic
+sudo snap install telegram-desktop
 sudo snap install webstorm --classic
 sudo snap install whatsapp-for-linux
 sudo cp ~/dwm.desktop /usr/share/xsessions/dwm.desktop
 sudo cp ~/picom.conf /etc/xdg/picom.conf
-cd ~/.config/suckless/dwm && make && sudo make clean install
-cd ~/.config/suckless/st && make && sudo make clean install
-cd ~/.config/suckless/dwmblocks && make && sudo make clean install
-cd ~/.config/suckless/dmenu && make && sudo make clean install
+cd ~/.config/suckless/dwm && sudo make && sudo make clean install
+cd ~/.config/suckless/st && sudo make && sudo make clean install
+cd ~/.config/suckless/dwmblocks && sudo make && sudo make clean install
+cd ~/.config/suckless/dmenu && sudo make && sudo make clean install
